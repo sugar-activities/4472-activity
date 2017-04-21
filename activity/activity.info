@@ -1,0 +1,8 @@
+[Activity]
+name = SimCom
+activity_version = 26
+host_version = 1
+bundle_id = mulawa.SimCom
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
